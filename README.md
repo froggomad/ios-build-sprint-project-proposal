@@ -17,7 +17,7 @@
  `Anyone with a lot of friends and/or colleagues knows what a pain it can be to agree on a lunch spot, and how unlikely it is that everyone will make it there on time. Busy professionals and social butterflys alike will appreciate Lunchly.`
     
 5. Github code repository: `https://github.com/froggomad/Lunchly`
-6. Github Project/Trello Board: `<Post your link to your Kanban board>`
+6. Github Project/Trello Board: `https://trello.com/b/zkBeOwrE/lunchly`
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
 
 ## Part 1: Brainstorming
