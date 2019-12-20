@@ -6,15 +6,15 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
-3. App Description (3-5 sentences):
+1. Team Members: `Kenny`
+2. App Name: `Lunchly`
+3. App Description (3-5 sentences): 
 
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+    `Schedule your lunches with friends and colleagues. Create groups to keep everything organized. Vote on your favorite lunch spots, the place with the most votes wins! Set a reminder, and Lunchly will let you know when it's time to leave!`
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
-    `<Be specific and focus on a real person>`
+ `Anyone with a lot of friends and/or colleagues knows what a pain it can be to agree on a lunch spot, and how unlikely it is that everyone will make it there on time. Busy professionals and social butterflys alike will appreciate Lunchly.`
     
 5. Github code repository: `<Create a Github Project>`
 6. Github Project/Trello Board: `<Post your link to your Kanban board>`
