@@ -56,8 +56,8 @@ Add photos, notes, and sketches from your brain storming session.
 
 Add your top 3-5 features (core functionality) from the Prioritize brainstorming step. These should be things that are part of the MVP (not a log in screen). Build for the demo day (i.e.: Apple never shows how to log into the Apple ID on stage).
 
-1. `<Feature 1: What will this help your #1 Customer do?>`
-2. `<Feature 2 (How will this help the customer?>`
+1. `<Feature 1: Plan a meetup with a group of people. This requires users, groups, and restaurants - in addition to notifications in order to be useful.>`
+2. `<Feature 2 Filtered Search/category selection. This will help the user find what they're looking for more quickly>`
 3. `<Feature 3 ...>`
 
 ## Part 2: Project Plan
