@@ -6,7 +6,7 @@
 
 ## Requirements
 
-1. Team Members: `Kenny`
+1. Team Members: `Kenny Dubroff`
 2. App Name: `Lunchly`
 3. App Description (3-5 sentences): 
 
