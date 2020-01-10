@@ -58,7 +58,7 @@ Add your top 3-5 features (core functionality) from the Prioritize brainstorming
 
 1. `<Feature 1: Plan a meetup with a group of people. This requires users, groups, and restaurants - in addition to notifications in order to be useful.>`
 2. `<Feature 2 Filtered Search/category selection. This will help the user find what they're looking for more quickly>`
-3. `<Feature 3 ...>`
+3. `<Feature 3 Ultimately this app would have a backend such as Firebase, but the app should still use CoreData to cache and maybe load a previous session>`
 
 ## Part 2: Project Plan
 
